@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/justincbagley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://justincbagley.github.io
+  * I am justincbagley (https://keybase.io/justincbagley) on keybase.
+  * I have a public key ASCxJVNMZzqQcBR8GRqlRF6noG-EgEvy0fGe0Qa3A-yXbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b125534c673a9070147c191aa5445ea7a06f84804bf2d1f19ed106b703ec976c0a",
+      "host": "keybase.io",
+      "kid": "0120b125534c673a9070147c191aa5445ea7a06f84804bf2d1f19ed106b703ec976c0a",
+      "uid": "a610cf34a440dc3b14107088299e7c19",
+      "username": "justincbagley"
+    },
+    "merkle_root": {
+      "ctime": 1528644809,
+      "hash": "8932be3c529ef8de92b706fd32dba30ce67de8f47679a7c9fccace8b4224fa7e53d85ac79ea3d5d07be7a1996d80a945bfcf9b2a5bdc7ef2a8aa70ec637a46e9",
+      "hash_meta": "95b7a61c84b16e92d3799f98c4f5f83f04ba881f707fee364da024571cc03ffb",
+      "seqno": 3054400
+    },
+    "service": {
+      "entropy": "m2NG64t5lAVgB3sXQoLXWPu/",
+      "hostname": "justincbagley.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528644817,
+  "expire_in": 504576000,
+  "prev": "3231778072523616450ee4f0f5ccc6093790860697d83f3c27acc7a554277abd",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsSVTTGc6kHAUfBkapURep6BvhIBL8tHxntEGtwPsl2wKp3BheWxvYWTESpcCBsQgMjF3gHJSNhZFDuTw9czGCTeQhgaX2D88J6zHpVQner3EIIxKcGvMIf66Ebo6NMtdAWQptepZiTWCvIvB2Mvq1ZY8AgHCo3NpZ8RA+MJp28O2TRIR0QDUkEunMhqxROhuzq7k18AhEXwencFYbF4HHyatz7KX31nXIEhUa+sF86y9eb1iXQPlqADSAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKjy9xSSbrYnuxeUnuVzJYQQdtN3z1PBjuMspeeNJs2Yo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/justincbagley
+
+==================================================================

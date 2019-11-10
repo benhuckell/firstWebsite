@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /tipuesearch/
+Disallow: /vendor/
+Sitemap: https://justinbagley.org/sitemap.xml
